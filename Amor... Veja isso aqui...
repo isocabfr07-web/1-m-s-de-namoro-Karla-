@@ -1,0 +1,111 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nosso 1º Mês 💚</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(180deg, #0f172a, #020617);
+      color: #ffffff;
+    }
+    .container {
+      max-width: 420px;
+      margin: auto;
+      padding: 24px;
+    }
+    .logo {
+      font-weight: bold;
+      color: #22c55e;
+      letter-spacing: 1px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 32px;
+      margin-bottom: 8px;
+    }
+    h2 {
+      font-size: 20px;
+      color: #22c55e;
+      margin-top: 32px;
+      margin-bottom: 12px;
+    }
+    .card {
+      background: #020617;
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 16px;
+      box-shadow: 0 0 20px rgba(34,197,94,0.15);
+    }
+    .highlight {
+      color: #22c55e;
+      font-weight: bold;
+    }
+    .footer {
+      text-align: center;
+      font-size: 14px;
+      opacity: 0.8;
+      margin-top: 40px;
+    }
+    .heart {
+      font-size: 22px;
+      color: #22c55e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">💚 Wrapped do Nosso Amor</div><h1>Isabella & Karla</h1>
+<p>Retrospectiva oficial do nosso <span class="highlight">1º mês juntos</span></p>
+
+<div class="card">
+  <h2>📅 Onde tudo começou</h2>
+  <p>24 de novembro<br />às <span class="highlight">23:57</span></p>
+  <p>O momento em que minha vida ganhou uma nova trilha sonora.</p>
+</div>
+
+<div class="card">
+  <h2>🎶 Músicas mais ouvidas do nosso amor</h2>
+  <p><strong>1.</strong> Pra Sonhar — Marcelo Jeneci</p>
+  <p><strong>2.</strong> Exagerado — Cazuza</p>
+  <p><strong>3.</strong> Minha Vida — Rita Lee</p>
+  <p><strong>4.</strong> Um Amor Puro — Djavan</p>
+</div>
+
+<div class="card">
+  <h2>💬 Frase que marcou o mês</h2>
+  <p class="highlight">“AMOR, A GENTE FEZ 1 MÊS E EU TE AMO MUITO”</p>
+</div>
+
+<div class="card">
+  <h2>😍 Coisas que eu mais amo em você</h2>
+  <p>Seu sorriso</p>
+  <p>Seu rosto</p>
+  <p>Seu amor por mim</p>
+  <p>Seu ciúmes (kkk)</p>
+  <p class="highlight">Eu amo absolutamente TUDO em você.</p>
+</div>
+
+<div class="card">
+  <h2>📊 Estatísticas do nosso mês</h2>
+  <p>💞 Amor acumulado: <span class="highlight">Infinito</span></p>
+  <p>💭 Pensamentos em você: <span class="highlight">Todos os dias</span></p>
+  <p>❤️ Coração entregue: <span class="highlight">100%</span></p>
+</div>
+
+<div class="card">
+  <h2>💚 Mensagem final</h2>
+  <p>Karla, esse foi só o primeiro capítulo da nossa história.</p>
+  <p>Cada dia ao seu lado é minha música favorita.</p>
+  <p class="highlight">Eu te amo mais do que qualquer palavra consegue explicar.</p>
+</div>
+
+<div class="footer">
+  Feito com amor por Isabella 💚<br />
+  <span class="heart">♥</span>
+</div>
+
+  </div>
+</body>
+</html>
